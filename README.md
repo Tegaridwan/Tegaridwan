@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tegar Ridwan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Kiko" width="400" src="https://media1.tenor.com/m/Pw1fmWcVxNkAAAAC/nah-id-win-gojo.gif">
+<img align="right" alt="Kiko" width="250" src="https://media1.tenor.com/m/Pw1fmWcVxNkAAAAC/nah-id-win-gojo.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegaridwan&label=Profile%20views&color=0e75b6&style=flat" alt="tegaridwan" /> </p>
 
