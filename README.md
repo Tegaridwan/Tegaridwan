@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **anything**
 
 - ⚡ Fun fact **i am funny**
 
