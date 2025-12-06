@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tegar Ridwan</h1>
+<h1 align="center">Hi 👋, I'm Tegar Ridwan P</h1>
 <!-- <h3 align="center">A passionate mobile developer from Indonesia</h3> -->
 <img align="right" alt="Kiko" width="250" src="https://media1.tenor.com/m/Pw1fmWcVxNkAAAAC/nah-id-win-gojo.gif">
 
