@@ -49,9 +49,9 @@
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tegaridwan&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tegaridwan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegaridwan&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tegaridwan" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegaridwan&theme=vision-friendly-dark" alt="tegaridwan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tegaridwan&theme=vision-friendly-dark" alt="tegaridwan" />
 </p>
 
 ---
