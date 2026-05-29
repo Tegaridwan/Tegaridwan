@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/tegaridwan">
-    <img src="https://github-readme-stats.vercel.app/api?username=tegaridwan&show_icons=true&theme=dark&hide_border=true" alt="Tegar's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tegaridwan&show_icons=true&theme=dark&hide_border=true" alt="" />
   </a>
 </p>
 
