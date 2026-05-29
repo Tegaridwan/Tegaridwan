@@ -16,20 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/tegaridwan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegaridwan&theme=dark&hide_border=true" alt="Tegar's GitHub Streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/tegaridwan">
-    <img src="https://github-readme-stats.vercel.app/api?username=tegaridwan&show_icons=true&theme=dark&hide_border=true" alt="" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -64,3 +50,20 @@
   <a href="https://instagram.com/tegrrp" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="tegrrp" /></a>
   <a href="https://www.youtube.com/c/kalihunt" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="kalihunt" /></a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/tegaridwan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegaridwan&theme=dark&hide_border=true" alt="Tegar's GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/tegaridwan">
+    <img src="https://github-readme-stats.vercel.app/api?username=tegaridwan&show_icons=true&theme=dark&hide_border=true" alt="" />
+  </a>
+</p>
+
+
