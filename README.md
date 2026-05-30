@@ -48,7 +48,7 @@
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100029281401977" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="tegar ridwan p" /></a>
   <a href="https://instagram.com/tegrrp" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="tegrrp" /></a>
-  <a href="https://www.youtube.com/kalihunt" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="kalihunt" /></a>
+  <a href="https://www.youtube.com/@kalihunt123" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="kalihunt" /></a>
 </p>
 
 ---
